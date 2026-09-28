@@ -1,3 +1,3 @@
 export default function Page() {
-  return <p>Home page. It has no title and no heading.</p>;
+  return <p>Das ist die Startseite. Sie hat weder einen Titel noch eine Überschrift.</p>;
 }

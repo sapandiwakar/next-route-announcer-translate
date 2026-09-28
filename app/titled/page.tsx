@@ -1,5 +1,5 @@
-export const metadata = { title: "Titled page" };
+export const metadata = { title: "Seite mit Titel" };
 
 export default function Page() {
-  return <p>This page has a title, so the route announcer announces it.</p>;
+  return <p>Diese Seite hat einen Titel, deshalb wird er nach der Navigation angekündigt.</p>;
 }
